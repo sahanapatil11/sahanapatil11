@@ -1,6 +1,6 @@
 # Hey there! I'm Sahana Patil 👩‍💻✨
 
-## 🚀 Full Stack Developer | Java | Cloud Enthusiast | Problem Solver
+## 🚀 Full Stack Developer | Java and Full Stack Enthusiast | Problem Solver
 
 I'm a *passionate full-stack developer* on a mission to build innovative solutions with *Java, Python, and Web Technologies*. I love tackling complex challenges, exploring cutting-edge technologies, and creating impactful projects.
 
@@ -17,13 +17,14 @@ I'm a *passionate full-stack developer* on a mission to build innovative solutio
 ## 📬 Let's Connect!
 📍 *Location:* Belagavi, Karnataka, India  
 📧 *Email:* [sahanapatil223@gmail.com](mailto:sahanapatil223@gmail.com)  
-🔗 *LinkedIn:* [LinkedIn Profile](#) (Add your LinkedIn link here!)  
-🚀 *Portfolio:* (Add your personal website or GitHub Pages link here!)  
+🔗 *LinkedIn:* [Sahana Patil](#) (linkedin.com/in/sahana-patil-272aa12a0)  
 
 ---
 
 ## 🎓 Education & Certifications
-🎓 *B.E in Computer Science* - Angadi Institute of Technology and Management (CGPA: 8)  
+🎓 *B.E in Computer Science* - Angadi Institute of Technology and Management (CGPA: 8)
+🎓 *PUC* - VP Hanchinmani Independent PU Science Collage (Percentage-91%)
+🎓 *SSLC* - Bharatesh English Medium School (Percentage-87%)
 🏆 *Certified in Cloud Computing* - AWS Academy (Mar 2024)  
 🏆 *Full Stack Web Development* - Edureka (Nov 2023)  
 🏆 *SQL Certification* - Edureka (Nov 2023)  
@@ -33,7 +34,7 @@ I'm a *passionate full-stack developer* on a mission to build innovative solutio
 ---
 
 ## 🛠 Tech Stack & Skills
-💻 *Languages:* Java, Python, C  
+💻 *Languages:* Java, Python basics, C  
 🌐 *Web Tech:* HTML, CSS  
 📊 *Databases:* MySQL  
 🛠 *Tools:* Eclipse, VS Code, MS Office  
